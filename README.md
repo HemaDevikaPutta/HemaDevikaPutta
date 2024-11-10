@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Hema Devika Putta 👋
 
-<!--
-**HemaDevikaPutta/HemaDevikaPutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate and goal-driven developer with a strong foundation in software development. I'm eager to grow my skills and gain industry experience through hands-on projects and collaboration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- **Name**: Hema Devika Putta
+- **Project**: [Technical Foundation of Software Development](#) (Link coming soon!)
+- **Current Goal**: Seeking an internship in Europe to apply my skills and learn from real-world challenges.
+
+---
+
+### 🛠 Skills & Tools
+
+- **Languages & Frameworks**: 
+  - **Java**
+  - **Spring Boot**
+
+- **Tools**: 
+  - **Jira** for project management and collaboration
+
+---
+
+### 💡 What I'm Working On
+I am currently focused on advancing my understanding of backend development and exploring opportunities to expand my skillset in new environments.
+
+### 🌐 Let's Connect!
+- **Email**: [hemadevika210@gmail.com](mailto:hemadevika210@gmail.com)
+
+Feel free to reach out if you'd like to discuss potential projects, internship opportunities, or just connect!
+
+---
+
+Thanks for visiting! 😊
